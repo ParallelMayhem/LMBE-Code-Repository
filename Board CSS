@@ -1,0 +1,19 @@
+        
+        body { background-image: url('https://i.vgy.me/MysMi0.png');background-repeat: repeat; }
+        .mlb_boardlist_box { box-shadow: 0 0 20px 7px #6ab5d8; background: #1e1e1e; }
+        .mlb_search_container { background-color:#1e1e1e; border-top: 1px solid #1e1e1e; border-right: 1px solid #1e1e1e; border-left: 1px solid #1e1e1e; }
+        .mlb_board_title { color: #fff; }
+        tr.smb_thread_sticky td { background-color:#CC232A; }
+        tr.smb_thread_odd td { background-color:#33677f; }
+        tr.smb_thread_else td { background-color:#518aa5; }
+        .smb_thread_imp { color:#FFFFFF; font-weight:bold; }
+        .smb_thread_imp:hover { color:#FFFFFF; font-weight:bold; text-decoration:underline; }
+        .smb_thread_noimp, .smb_thread_number { color:#FFFFFF; font-weight: normal;}
+        .smb_thread_noimp:hover { color:#FFFFFF; text-decoration:underline; }
+        .mlb_sidebar_content_announcement {background: url(https://i.vgy.me/3AW2Zf.jpg) #1e1e1e top center no-repeat; border-left: 2px solid #1e1e1e; border-bottom: 2px solid #1e1e1e; border-right: 2px solid #1e1e1e;}
+        #announcement { color:#fff; }
+        .mlb_sidebar_heading { background-color:#1e1e1e; }
+        .mlb_sidebar_content { background-color: #1e1e1e; border-left: 2px solid #1e1e1e; border-bottom: 2px solid #1e1e1e; border-right: 2px solid #1e1e1e; color:#fff; }
+        .smb_sidebar_likes { background: url(https://i.vgy.me/OqiIV4.jpg) }
+        tr.smb_thread_info td { background-color:#000; }
+        .smb_thread_info_text { color:#fff; }
